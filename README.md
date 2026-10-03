@@ -1,6 +1,6 @@
 An interactive study system I built for preparing for my **CSE340 Computer Architecture final examination**.
 
-Instead of studying from scattered lecture slides, notes, practice sheets, and solutions, I organized the important material into one structured interface where I can learn the concepts first and then solve the actual practice problems.
+https://siffyyrox-x.github.io/Computer-Architecture/
 
 ## Topics Covered
 
