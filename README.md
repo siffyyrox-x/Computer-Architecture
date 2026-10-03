@@ -73,7 +73,6 @@ The current version focuses on Chapters 2–5 of Computer Architecture.
 - Clean dark interface
 - Exam-focused organization
 
-
 P.S.
 This project was built through AI-assisted vibe coding, guided by my own creativity, ideas, and basic understanding of development. It was an experimental project focused on exploring what’s possible through AI-powered development.
 
